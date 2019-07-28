@@ -1,10 +1,20 @@
-package com.ofekbytes.springExamples.pk001.ex004;
+package com.ofekbytes.springExamples.pk001.ex005;
 
 public class TrackCoach implements Coach {
 
 	@Override
 	public String getDailyWorkout() {
-		return "ex004 - run 10 kilometers";
+		return "Run a hard 5k";
 	}
 
 }
+
+
+
+
+
+
+
+
+
+
